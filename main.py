@@ -9,7 +9,7 @@ from sqlalchemy.orm import Session
 import enum
 
 # MySQL database connection string
-DATABASE_URL = "mysql+mysqldb://user:password$@localhost/databsaename"  #put your mysql user,password and databasename
+DATABASE_URL = "mysql+mysqldb://user:password@localhost/databsaename"  #put your mysql user,password and databasename
 
 # SQLAlchemy setup
 Base = declarative_base()

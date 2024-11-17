@@ -1,6 +1,6 @@
 # Login-Registration-using-FastAPI-MySQL
 
-pip install fastapi pydantic sqlalchemy sqlalchemy.orm    and other libraries if you dont have
+pip install fastapi pydantic sqlalchemy sqlalchemy.orm    and other libraries
 
 uvicorn main:app --reload  #run the page using command
 
